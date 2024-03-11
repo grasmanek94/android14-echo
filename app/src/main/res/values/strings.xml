@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">android14-echo</string>
+    <string name="header">Memory holds the most recent</string>
+    <string name="dummy_value">0 seconds</string>
+    <string name="choose_mem_contents_save">Choose how much\nof the memory contents\nyou want to save:\n</string>
+    <string name="one_minute">1:00</string>
+    <string name="five_minutes">5:00</string>
+    <string name="dummy_all_minutes">99:99</string>
+    <string name="max_indicator">out of (max)</string>
+    <string name="max_time_dummy">99 minutes</string>
+    <string name="settings">Settings</string>
+</resources>
